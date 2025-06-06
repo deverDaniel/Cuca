@@ -1,2 +1,0 @@
-# Cuca
-Projeto senac, Cuca
